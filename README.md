@@ -1,6 +1,6 @@
 ## js-sensorweb-client-app
 
-This repository contains the code nessessary to build a native app with Phonegap/Cordova of the [52°North JavaScript Sensor Web Client](https://github.com/52north/js-sensorweb-client).
+This repository contains the code necessary to build a native app with Phonegap/Cordova of the [52°North JavaScript Sensor Web Client](https://github.com/52north/js-sensorweb-client).
 
 The package can be pulled into [Adobe® PhoneGap™ Build](https://build.phonegap.com) to compile for Android, iOS and Windows Phone.
 
